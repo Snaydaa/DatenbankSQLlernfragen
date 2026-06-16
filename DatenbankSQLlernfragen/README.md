@@ -1,4 +1,4 @@
-# StudyBase SQL
+# LernSoftware SQL
 
 Kleine Aufgabenbank als reines SQL-Projekt, ohne Java-Oberfläche.
 Hab das erstmal so gebaut um SQL besser zu üben bevor ich eine Java-Anbindung schreibe.
